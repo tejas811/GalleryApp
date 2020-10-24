@@ -1,4 +1,4 @@
-package in.tejas.tkgallery;
+package in.tejas.gallery;
 
 import android.content.Context;
 import android.database.Cursor;

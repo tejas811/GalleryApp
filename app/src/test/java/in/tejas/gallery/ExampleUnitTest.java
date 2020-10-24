@@ -1,4 +1,4 @@
-package in.tejas.tkgallery;
+package in.tejas.gallery;
 
 import org.junit.Test;
 

@@ -1,14 +1,10 @@
-package in.tejas.tkgallery;
+package in.tejas.gallery;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
-import android.net.Uri;
 import android.os.Bundle;
 import android.widget.ImageView;
-
-import com.bumptech.glide.Glide;
 
 public class PhotoActivity extends AppCompatActivity {
 
